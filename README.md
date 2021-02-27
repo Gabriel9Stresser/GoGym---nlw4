@@ -1,6 +1,7 @@
 # GoGym---nlw4
 Projeto baseado na técnica Pomodoro proposto pela NLW#04
 
+![pomodoro](https://user-images.githubusercontent.com/65667183/109389090-9bb55f00-78e9-11eb-84d9-2cc9b8486d9f.PNG)
 
 ## 🧪 Technologies
 
