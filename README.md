@@ -20,7 +20,7 @@ O projeto foi criado seguindo as tecnologias a seguir:
 Siga os passos a seguir para clonar esse projeto:
 
 ```bash
-$ git clone https://github.com/guilhermecapitao/nlw04-moveit-web.git && cd nlw04-moveit-web
+$ git clone https://github.com/Gabriel9Stresser/GoGym---nlw4.git && cd GoGym---nlw4
 ```
 
 Follow the steps below
