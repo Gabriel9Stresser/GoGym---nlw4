@@ -16,7 +16,7 @@ O projeto foi criado seguindo as tecnologias a seguir:
 
 ## 🚀 Getting started
 
-Clone the project and access the folder
+Siga os passos a seguir para clonar esse projeto:
 
 ```bash
 $ git clone https://github.com/guilhermecapitao/nlw04-moveit-web.git && cd nlw04-moveit-web
@@ -35,15 +35,15 @@ $ yarn dev
 
 [Move.it](https://gogym-next.vercel.app/) venha exercitar o seu foco 👽 
 
-This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during February 22-28, 2021.
+Esse projeto foi desenvolvido na semana **[Next Level Week](https://nextlevelweek.com/)**, ministrado pela **[@Rocketseat](https://github.com/Rocketseat)** em Fevereiro 22-28, 2021.
 
 ## 🔖 Layout
 
-You can view the project layout through the links below:
+Você pode visualizar o Layout da aplicação pelo link a seguir:
 
 - [Layout Web](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0) 
 
-Remembering that you need to have a [Figma](http://figma.com/) account to access it.
+Você precisara de uma conta no [Figma](http://figma.com/) para acessar o arquivo.
 
 ## 📝 License
 
